@@ -73,8 +73,8 @@ User.beforeCreate(hashPassword);
 User.beforeUpdate(hashPassword);
 
 // Instance method for password verification
-User.prototype.checkPassword = async function(password) {
-  return await bcrypt.compare(password, this.password);
+User.prototype.checkPassword = async function(candidatePassword) {
+  return await bcrypt.compare(candidatePassword, this.password);
 };
 
 // Virtual field for basic user info
