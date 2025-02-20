@@ -88,7 +88,10 @@ npm start
 ```
 
 ## 📬 Contact
-If you have any questions, feel free to reach out!
-- **GitHub**: [seniyadewmina](https://github.com/seniyadewmina)
-- **Email**: seniyadewminaw@gmail.com
+
+For any queries or suggestions, reach out via:  
+📧 **seniyadewminaw@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/seniyadewmina/)  
+
+---
 
